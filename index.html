@@ -8,11 +8,16 @@
     <link type="text/css" href="./styles.css" rel="stylesheet"/>
     <!-- OPTIONAL: The :focus-visible polyfill removes the focus ring for some input types -->
     <script src="https://unpkg.com/focus-visible@5.0.2/dist/focus-visible.js" defer></script>
+    <style>
+    model-viewer#reveal {
+    --poster-color: transparent;
+    }
+    </style>
   </head>
   <body>
     <img src="./Assets/eagle.jpg" class="logo" />
     <!-- <model-viewer> HTML element -->
-    <model-viewer bounds="tight" enable-pan src="Plenar01.glb" ar ar-modes="scene-viewer quick-look" ios-src="Plenar01.usdz" camera-controls environment-image="neutral" poster="poster.webp" shadow-intensity="1" camera-orbit="269.9deg 74.25deg auto">
+    <model-viewer bounds="tight" enable-pan src="Plenar01.glb" ar ar-modes="scene-viewer quick-look" ios-src="Plenar01.usdz" id="reveal" loading="eager" camera-controls environment-image="neutral" poster="poster.webp" shadow-intensity="1" camera-orbit="269.9deg 74.25deg auto">
       <div class="progress-bar hide" slot="progress-bar">
           <div class="update-bar"></div>
       </div>
