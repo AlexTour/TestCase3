@@ -73,6 +73,10 @@ model-viewer {
   transition: width 0.3s;
 }
 
+model-viewer#reveal {
+  --poster-color: transparent;
+}
+
 #ar-button {
   background-image: url(ar_icon.png);
   background-repeat: no-repeat;
