@@ -31,20 +31,20 @@ body {
   align-content: center;
 }
 
-.impressum {
-  width: 9rem;
-  height: 2.7rem;
-  background-color: #333333;
-  border-radius: 50px;
-  /* box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); */
-  color: white;
-  text-align: center;
-  text-transform: uppercase;
-  font-size: 1rem;
-  margin: 1rem;
-  position: absolute;
-  bottom: 0;
-}
+ .impressum {
+    width: 7rem;
+    height:1.5rem;
+    position: absolute;
+    bottom: 0;
+    background-color: #333333;
+    border-radius: 50px;
+    /* box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); */
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 0.7rem;
+    margin: 1rem;
+  }
 
 model-viewer {
   width: 100%;
@@ -173,19 +173,19 @@ and (-webkit-min-device-pixel-ratio: 2) {
     mix-blend-mode: multiply;
   }
   
-  .impressum {
-    width: 9rem;
-    height: 2.7rem;
+   .impressum {
+    width: 7rem;
+    height:1.5rem;
+    position: absolute;
+    bottom: 0;
     background-color: #333333;
     border-radius: 50px;
     /* box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); */
     color: white;
     text-align: center;
     text-transform: uppercase;
-    font-size: 1rem;
+    font-size: 0.7rem;
     margin: 1rem;
-    position: absolute;
-    bottom: 0;
   }
 
 }
@@ -221,19 +221,19 @@ and (-webkit-min-device-pixel-ratio: 2) {
     mix-blend-mode: multiply;
   }
   
-  .impressum {
-    width: 9rem;
-    height: 2.7rem;
+   .impressum {
+    width: 7rem;
+    height:1.5rem;
+    position: absolute;
+    bottom: 0;
     background-color: #333333;
     border-radius: 50px;
     /* box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); */
     color: white;
     text-align: center;
     text-transform: uppercase;
-    font-size: 1rem;
+    font-size: 0.7rem;
     margin: 1rem;
-    position: absolute;
-    bottom: 0;
   }
 
 }
@@ -266,20 +266,20 @@ and (-webkit-min-device-pixel-ratio: 2) {
       mix-blend-mode: multiply;
     }
     
-    .impressum {
-      width: 9rem;
-      height: 2.7rem;
-      background-color: #333333;
-      border-radius: 50px;
-      /* box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); */
-      color: white;
-      text-align: center;
-      text-transform: uppercase;
-      font-size: 1rem;
-      margin: 1rem;
-      position: absolute;
-      bottom: 0;
-    }
+     .impressum {
+    width: 7rem;
+    height:1.5rem;
+    position: absolute;
+    bottom: 0;
+    background-color: #333333;
+    border-radius: 50px;
+    /* box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); */
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 0.7rem;
+    margin: 1rem;
+  }
 
 }
  /* ----------- iPhone 6, 6S, 7 and 8 ----------- */
@@ -309,19 +309,19 @@ and (-webkit-min-device-pixel-ratio: 2) {
     mix-blend-mode: multiply;
   }
   
-  .impressum {
-    width: 9rem;
-    height: 2.7rem;
+   .impressum {
+    width: 7rem;
+    height:1.5rem;
+    position: absolute;
+    bottom: 0;
     background-color: #333333;
     border-radius: 50px;
     /* box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); */
     color: white;
     text-align: center;
     text-transform: uppercase;
-    font-size: 1rem;
+    font-size: 0.7rem;
     margin: 1rem;
-    position: absolute;
-    bottom: 0;
   }
   
  }
@@ -354,19 +354,19 @@ and (-webkit-min-device-pixel-ratio: 3) {
     mix-blend-mode: multiply;
   }
   
-  .impressum {
-    width: 9rem;
-    height: 2.7rem;
+   .impressum {
+    width: 7rem;
+    height:1.5rem;
+    position: absolute;
+    bottom: 0;
     background-color: #333333;
     border-radius: 50px;
     /* box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); */
     color: white;
     text-align: center;
     text-transform: uppercase;
-    font-size: 1rem;
+    font-size: 0.7rem;
     margin: 1rem;
-    position: absolute;
-    bottom: 0;
   }
   
 
@@ -401,18 +401,18 @@ and (-webkit-min-device-pixel-ratio: 3) {
       mix-blend-mode: multiply;
     }
     
-    .impressum {
-      width: 9rem;
-      height: 2.7rem;
-      background-color: #333333;
-      border-radius: 50px;
-      /* box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); */
-      color: white;
-      text-align: center;
-      text-transform: uppercase;
-      font-size: 1rem;
-      margin: 1rem;
-      position: absolute;
-      bottom: 0;
-    }
+     .impressum {
+    width: 7rem;
+    height:1.5rem;
+    position: absolute;
+    bottom: 0;
+    background-color: #333333;
+    border-radius: 50px;
+    /* box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); */
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 0.7rem;
+    margin: 1rem;
+  }
 }
