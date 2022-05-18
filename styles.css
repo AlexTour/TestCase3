@@ -150,6 +150,7 @@ and (-webkit-min-device-pixel-ratio: 2) {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    overflow: hidden;
   }
 
   .logo {
@@ -196,6 +197,7 @@ and (-webkit-min-device-pixel-ratio: 2) {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    overflow: hidden;
   }
 
   .logo {
@@ -239,6 +241,7 @@ and (-webkit-min-device-pixel-ratio: 2) {
       display: flex;
       flex-direction: column;
       justify-content: space-between;
+      overflow: hidden;
     }
   
     .logo {
@@ -280,6 +283,7 @@ and (-webkit-min-device-pixel-ratio: 2) {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    overflow: hidden;
   }
 
   .logo {
@@ -323,6 +327,7 @@ and (-webkit-min-device-pixel-ratio: 3) {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    overflow: hidden;
   }
 
   .logo {
@@ -368,6 +373,7 @@ and (-webkit-min-device-pixel-ratio: 3) {
       display: flex;
       flex-direction: column;
       justify-content: space-between;
+      overflow: hidden;
     }
   
     .logo {
