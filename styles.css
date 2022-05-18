@@ -23,6 +23,14 @@ body {
   mix-blend-mode: multiply;
 }
 
+.btn-parent{
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: center;
+}
+
 .impressum {
   width: 9rem;
   height: 2.7rem;
@@ -36,7 +44,6 @@ body {
   margin: 1rem;
   position: absolute;
   bottom: 0;
-  left: 50%;
 }
 
 model-viewer {
@@ -175,7 +182,6 @@ and (-webkit-min-device-pixel-ratio: 2) {
     margin: 1rem;
     position: absolute;
     bottom: 0;
-    left: 50%;
   }
 
 }
@@ -224,7 +230,6 @@ and (-webkit-min-device-pixel-ratio: 2) {
     margin: 1rem;
     position: absolute;
     bottom: 0;
-    left: 50%;
   }
 
 }
@@ -270,7 +275,6 @@ and (-webkit-min-device-pixel-ratio: 2) {
       margin: 1rem;
       position: absolute;
       bottom: 0;
-      left: 50%;
     }
 
 }
@@ -314,7 +318,6 @@ and (-webkit-min-device-pixel-ratio: 2) {
     margin: 1rem;
     position: absolute;
     bottom: 0;
-    left: 50%;
   }
   
  }
@@ -360,7 +363,6 @@ and (-webkit-min-device-pixel-ratio: 3) {
     margin: 1rem;
     position: absolute;
     bottom: 0;
-    left: 50%;
   }
   
 
@@ -408,6 +410,5 @@ and (-webkit-min-device-pixel-ratio: 3) {
       margin: 1rem;
       position: absolute;
       bottom: 0;
-      left: 50%;
     }
 }
