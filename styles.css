@@ -158,8 +158,9 @@ and (-webkit-min-device-pixel-ratio: 2) {
     padding: 0;
     width: 100vw;
     height: 100vh;
-    background: url(./Assets/bg_linear.jpg) no-repeat;
-    background-size: cover;
+    /*background: url(./Assets/bg_linear.jpg) no-repeat;
+    background-size: cover; */
+    background-color: #ffffff;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -206,8 +207,9 @@ and (-webkit-min-device-pixel-ratio: 2) {
     padding: 0;
     width: 100vw;
     height: 100vh;
-    background: url(./Assets/bg_linear.jpg) no-repeat;
-    background-size: cover;
+    /*background: url(./Assets/bg_linear.jpg) no-repeat;
+    background-size: cover; */
+    background-color: #ffffff;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -251,8 +253,9 @@ and (-webkit-min-device-pixel-ratio: 2) {
       padding: 0;
       width: 100vw;
       height: 100vh;
-      background: url(./Assets/bg_linear.jpg) no-repeat;
-      background-size: cover;
+      /*background: url(./Assets/bg_linear.jpg) no-repeat;
+      background-size: cover; */
+      background-color: #ffffff;
       display: flex;
       flex-direction: column;
       justify-content: space-between;
@@ -294,8 +297,9 @@ and (-webkit-min-device-pixel-ratio: 2) {
     padding: 0;
     width: 100vw;
     height: 100vh;
-    background: url(./Assets/bg_linear.jpg) no-repeat;
-    background-size: cover;
+    /*background: url(./Assets/bg_linear.jpg) no-repeat;
+    background-size: cover; */
+    background-color: #ffffff;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -339,8 +343,9 @@ and (-webkit-min-device-pixel-ratio: 3) {
     padding: 0;
     width: 100vw;
     height: 100vh;
-    background: url(./Assets/bg_linear.jpg) no-repeat;
-    background-size: cover;
+    /*background: url(./Assets/bg_linear.jpg) no-repeat;
+    background-size: cover; */
+    background-color: #ffffff;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -386,8 +391,9 @@ and (-webkit-min-device-pixel-ratio: 3) {
       padding: 0;
       width: 100vw;
       height: 100vh;
-      background: url(./Assets/bg_linear.jpg) no-repeat;
-      background-size: cover;
+      /*background: url(./Assets/bg_linear.jpg) no-repeat;
+      background-size: cover; */
+      background-color: #ffffff;
       display: flex;
       flex-direction: column;
       justify-content: space-between;
@@ -423,8 +429,9 @@ and (-webkit-min-device-pixel-ratio: 3) {
     padding: 0;
     width: 100vw;
     height: 100vh;
-    background: url(./Assets/bg_linear.jpg) no-repeat;
-    background-size: cover;
+    /*background: url(./Assets/bg_linear.jpg) no-repeat;
+    background-size: cover; */
+    background-color: #ffffff;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
